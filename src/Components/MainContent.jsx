@@ -177,35 +177,35 @@ export default function MainContent() {
           name={"الفجر"}
           time={data?.timings?.Fajr}
           img={
-            "../../public/freepik__the-style-is-candid-image-photography-with-natural__78003.jpeg"
+            "/freepik__the-style-is-candid-image-photography-with-natural__78003.jpeg"
           }
         />
         <Prayer
           name={"الظهر"}
           time={data?.timings?.Dhuhr}
           img={
-            "../../public/freepik__the-style-is-candid-image-photography-with-natural__78004.jpeg"
+            "/freepik__the-style-is-candid-image-photography-with-natural__78004.jpeg"
           }
         />
         <Prayer
           name={"العصر"}
           time={data?.timings?.Asr}
           img={
-            "../../public/freepik__the-style-is-candid-image-photography-with-natural__78005.jpeg"
+            "/freepik__the-style-is-candid-image-photography-with-natural__78005.jpeg"
           }
         />
         <Prayer
           name={"المغرب"}
           time={data?.timings?.Maghrib}
           img={
-            "../../public/freepik__the-style-is-candid-image-photography-with-natural__78006.jpeg"
+            "/freepik__the-style-is-candid-image-photography-with-natural__78006.jpeg"
           }
         />
         <Prayer
           name={"العشاء"}
           time={data?.timings?.Isha}
           img={
-            "../../public/freepik__the-style-is-candid-image-photography-with-natural__78007.jpeg"
+            "/freepik__the-style-is-candid-image-photography-with-natural__78007.jpeg"
           }
         />
       </div>
